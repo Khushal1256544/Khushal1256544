@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33009609/README.1.md)
 
 # 👋 Hi, I'm **Khushal Singh**
 
