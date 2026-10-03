@@ -1,16 +1,93 @@
-## Hi there 👋
+[README (1).md](https://github.com/user-attachments/files/33009609/README.1.md)
 
-<!--
-**Khushal1256544/Khushal1256544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **Khushal Singh**
 
-Here are some ideas to get you started:
+### 🎓 B.Tech CSIT Student | 💻 DSA in C++ | 🌐 Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Information Technology student passionate about **Data Structures & Algorithms, Problem Solving and Web Development**.
+
+- 🔭 I'm currently working on **DSA with C++**
+- 🌱 I'm currently learning **Web Development**
+- 💻 Practicing problems on **LeetCode & Code360**
+- 🏗️ Exploring **System Design**
+- 🚀 Preparing for **Internships & Placements**
+
+---
+
+## 🌐 Socials:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/khushal-singh-a58637338/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge"></a>
+<a href="https://leetcode.com/u/khushalsinghhh/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="https://www.naukri.com/code360/profile/YOUR_CODE360_ID"><img src="https://img.shields.io/badge/CODE360-F89F1B?style=for-the-badge"></a>
+<a href="https://www.instagram.com/khushal_singh0/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:Khushalsingh1345@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+### Languages
+
+<p align="left">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</p>
+
+### Web Development
+
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+## 🛠️ Projects
+
+- 🔗 [Leetcode Solutions](https://github.com/Khushal1256544/Leetcode) – C++ solutions to LeetCode problems
+- 
+
+---
+
+## 📊 Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/khushalsinghhh?theme=dark&font=Karma&ext=heatmap">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Khushal1256544&show_icons=true&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Khushal1256544&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🎯 My Goals
+
+- 🧠 Master Data Structures & Algorithms
+- 🌐 Build real-world Web Development projects
+- 🏗️ Learn System Design fundamentals
+- 💼 Get an internship and prepare for software engineering placements
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Coding • Keep Learning • Keep Growing 🚀**
+
+</div>
