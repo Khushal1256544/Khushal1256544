@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm **Khushal Singh**
 
 ### 🎓 B.Tech CSIT Student | 💻 DSA in C++ | 🌐 Web Development
@@ -13,10 +12,10 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/khushal-singh-a58637338/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/khushal-singh-a58637338/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/u/khushalsinghhh/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 <a href="https://www.naukri.com/code360/profile/YOUR_CODE360_ID"><img src="https://img.shields.io/badge/CODE360-F89F1B?style=for-the-badge"></a>
 <a href="https://www.instagram.com/khushal_singh0/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -25,7 +24,7 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### Languages
 
@@ -53,23 +52,44 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ## 🛠️ Projects
 
-- 🔗 [Leetcode Solutions](https://github.com/Khushal1256544/Leetcode) – C++ solutions to LeetCode problems
-- 
+### 📚 Drona Books – Online Bookstore
+
+An online bookstore web application featuring 10 categories and 60 engineering, computer science, and MBA books.
+
+**Features:**
+- 🎬 Animated landing page
+- 📚 Browse books by category
+- 🛒 Add books to cart and remove them
+- 🔐 Demo login and guest mode
+
+**Tech Stack:** HTML5, CSS3, JavaScript
+
+🔗 [Live Demo](https://khushal1256544.github.io/drona-books/) | [Source Code](https://github.com/Khushal1256544/drona-books)
+
+---
+
+### 💻 LeetCode Solutions
+
+A collection of Data Structures and Algorithms problems solved using C++, focused on improving problem-solving skills and understanding important DSA concepts.
+
+**Tech Stack:** C++
+
+🔗 [Source Code](https://github.com/Khushal1256544/Leetcode)
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/khushalsinghhh?theme=dark&font=Karma&ext=heatmap">
+<img src="https://leetcard.jacoblin.cool/khushalsinghhh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Khushal1256544&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Khushal1256544&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Khushal1256544&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=Khushal1256544&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -80,6 +100,7 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 - 🌐 Build real-world Web Development projects
 - 🏗️ Learn System Design fundamentals
 - 💼 Get an internship and prepare for software engineering placements
+- 📈 Keep learning and improving consistently
 
 ---
 
